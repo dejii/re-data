@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/re-data/ui-feature-redata-ui/static/css/main.884edad7.chunk.css",
+    "main.js": "/re-data/ui-feature-redata-ui/static/js/main.72d11321.chunk.js",
+    "main.js.map": "/re-data/ui-feature-redata-ui/static/js/main.72d11321.chunk.js.map",
+    "runtime-main.js": "/re-data/ui-feature-redata-ui/static/js/runtime-main.d153d7e5.js",
+    "runtime-main.js.map": "/re-data/ui-feature-redata-ui/static/js/runtime-main.d153d7e5.js.map",
+    "static/css/2.9af11fe0.chunk.css": "/re-data/ui-feature-redata-ui/static/css/2.9af11fe0.chunk.css",
+    "static/js/2.d1d4ecda.chunk.js": "/re-data/ui-feature-redata-ui/static/js/2.d1d4ecda.chunk.js",
+    "static/js/2.d1d4ecda.chunk.js.map": "/re-data/ui-feature-redata-ui/static/js/2.d1d4ecda.chunk.js.map",
+    "static/js/3.8ee9cfe8.chunk.js": "/re-data/ui-feature-redata-ui/static/js/3.8ee9cfe8.chunk.js",
+    "static/js/3.8ee9cfe8.chunk.js.map": "/re-data/ui-feature-redata-ui/static/js/3.8ee9cfe8.chunk.js.map",
+    "index.html": "/re-data/ui-feature-redata-ui/index.html",
+    "static/css/2.9af11fe0.chunk.css.map": "/re-data/ui-feature-redata-ui/static/css/2.9af11fe0.chunk.css.map",
+    "static/css/main.884edad7.chunk.css.map": "/re-data/ui-feature-redata-ui/static/css/main.884edad7.chunk.css.map",
+    "static/js/2.d1d4ecda.chunk.js.LICENSE.txt": "/re-data/ui-feature-redata-ui/static/js/2.d1d4ecda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d153d7e5.js",
+    "static/css/2.9af11fe0.chunk.css",
+    "static/js/2.d1d4ecda.chunk.js",
+    "static/css/main.884edad7.chunk.css",
+    "static/js/main.72d11321.chunk.js"
+  ]
+}
